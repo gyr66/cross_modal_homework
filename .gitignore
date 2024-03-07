@@ -1,0 +1,8 @@
+*.pyc
+*.pt
+**/data/
+*.txt
+*.pkl
+*.pth
+trash
+tmp.*

@@ -1,0 +1,12 @@
+python run_image_classification.py \
+    --model_name_or_path ./outputs \
+    --train_dir ./data/train \
+    --validation_dir ./data/val \
+    --output_dir ./ViT_eval_results \
+    --remove_unused_columns False \
+    --do_eval \
+    --per_device_eval_batch_size 8 \
+    --logging_strategy steps \
+    --logging_steps 10 \
+    --seed 1337 \
+    --cache_dir ./cache

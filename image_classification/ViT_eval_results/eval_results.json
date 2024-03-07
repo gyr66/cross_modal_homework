@@ -1,0 +1,13 @@
+{
+    "eval_accuracy": 0.996,
+    "eval_f1_cat": 0.9960159362549801,
+    "eval_f1_dog": 0.9959839357429718,
+    "eval_loss": 0.016295962035655975,
+    "eval_precision_cat": 0.9920634920634921,
+    "eval_precision_dog": 1.0,
+    "eval_recall_cat": 1.0,
+    "eval_recall_dog": 0.992,
+    "eval_runtime": 21.8607,
+    "eval_samples_per_second": 22.872,
+    "eval_steps_per_second": 0.366
+}
