@@ -3,3 +3,4 @@
 包含以下作业：
 
 1. [作业一：基于深度神经网络的猫狗图像分类](./image_classification/README.md)
+2. [作业二：基于深度神经网络的图像文本检索](./vsrn/README.md)
