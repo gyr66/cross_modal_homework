@@ -4,3 +4,4 @@
 
 1. [作业一：基于深度神经网络的猫狗图像分类](./image_classification/README.md)
 2. [作业二：基于深度神经网络的图像文本检索](./vsrn/README.md)
+3. [作业三：基于视觉语言大模型的零样本图像文本检索](./clip/README.md)
